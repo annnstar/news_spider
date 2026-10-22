@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.venv37_backup/
+.idea/
+data/
+data_test/
+work_test_output/
+*.log
+*.zip
+.env
